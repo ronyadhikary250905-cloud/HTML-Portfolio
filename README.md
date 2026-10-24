@@ -39,9 +39,14 @@ HTML-Portfolio/
 - Learn to organize project files and assets.
 - Build a foundation for future web development projects.
 
+## GitHub Repository:
+
+Visit Repository:
+https://github.com/ronyadhikary250905-cloud/HTML-Portfolio
+
 ## Live Demo
 
-Visit my portfolio:
+Visit Live Link:
 https://ronyadhikary250905-cloud.github.io/HTML-Portfolio/
 
 ## Author
